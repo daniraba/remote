@@ -1,9 +1,9 @@
 # remote
 
-this was used for training
+This was used for training.
 
-point 1
-point 2
-point 3
+* Point 1
+* Point 2
+* Point 3
 
-this is my new readme.md file
+This is my new readme.md file.
